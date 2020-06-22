@@ -1,0 +1,4 @@
+ INFO [pool-1-thread-1] (Suitebase.java:103) - All Excel Files Initialised Successfully
+ INFO [pool-1-thread-1] (Suitebase.java:109) - Config Properties file loaded Successfully
+ INFO [pool-1-thread-1] (Test1.java:77) - http://google.com
+ INFO [pool-1-thread-1] (Suitebase.java:159) - Chrome Driver Instance loaded successfully

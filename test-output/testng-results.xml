@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[TEst extend reports, Hence Validation Successful.<BR>]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14973" started-at="2019-07-01T18:53:50Z" finished-at="2019-07-01T18:54:05Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="14973" started-at="2019-07-01T18:53:50Z" finished-at="2019-07-01T18:54:05Z">
+      <class name="testcases.Test1">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcases.Test1@a664f2]" name="setUp" is-config="true" duration-ms="331" started-at="2019-07-02T00:23:50Z" finished-at="2019-07-02T00:23:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TC1_Home(java.util.LinkedHashMap)[pri:0, instance:testcases.Test1@a664f2]" name="TC1_Home" duration-ms="13098" started-at="2019-07-02T00:23:50Z" data-provider="Home" finished-at="2019-07-02T00:24:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=TC1_Home1, TestCaseDescription=, CaseToRun=Y, Pass/Fail/Skip=Pass, TImeLoad=3.27, FailCaseLog=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[TEst extend reports, Hence Validation Successful.<BR>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC1_Home -->
+        <test-method status="PASS" signature="browserControl()[pri:0, instance:testcases.Test1@a664f2]" name="browserControl" is-config="true" duration-ms="634" started-at="2019-07-02T00:24:03Z" finished-at="2019-07-02T00:24:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserControl -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testcases.Test1@a664f2]" name="afterClass" is-config="true" duration-ms="876" started-at="2019-07-02T00:24:04Z" finished-at="2019-07-02T00:24:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testcases.Test1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
